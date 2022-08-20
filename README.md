@@ -7,3 +7,5 @@ Recomendaciones:  Se recomienda darle permisos al arhivo para que se ejecute com
                   Abrir el scrip atraves de la terminal atraves del comando cd para ubircarte en el repositorio y con sudo ./update.scr, te pedira tu constraseña y ya.
 
 Si optienes errores durante la aplicacion vuelve a ejecutar el scrip para intentar solucionarlo.
+
+![imagen](https://user-images.githubusercontent.com/64279814/185761436-24db3856-664b-44b8-8156-f5b3dcec7721.png)
