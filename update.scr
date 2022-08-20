@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "$(tput setaf 5)|!!|$(tput setaf 4)_______------: Actualizando Espejos :------_______$(tput setaf 5)|!!|$(tput setaf 2)"
+sh -c 'sudo reflector --verbose --latest 5 --sort rate --save /etc/pacman.d/mirrorlist'
+echo "$(tput setaf 5)|!!|$(tput setaf 4)_______------: Actualizando Paquetes :------_______$(tput setaf 5)|!!|$(tput setaf 2)"
+sh -c 'sudo pacman -Syyu'
+echo "$(tput setaf 4)Todo a terminado, Si ocurren errores vuelve a ejecutarlo de nuevo.$(tput sgr 0)"
