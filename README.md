@@ -8,3 +8,6 @@ Recomendaciones:  Se recomienda darle permisos al arhivo para que se ejecute com
 
 Si optienes errores durante la aplicacion vuelve a ejecutar el scrip para intentar solucionarlo.
 
+
+
+©krafairus, Todos Los Derechos Reservados. Creado por krafairus. Bajo la licencia MIT.
