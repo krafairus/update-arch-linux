@@ -1,3 +1,5 @@
+### Proyecto abanadonado, ¿Por que?, por amor, por locura, por reveldia, o simplemente no me agrada mi vida y quiero cambiarlo todo, asi que como este proyecto no le veo futuro lo cerrare, tampoco es como que tenga mucho uso jajaj, bueno a empezar una nueva vida, nueva casa.
+
 # update-arch-linux
 Este simple scrip podras actualizar todos tus paquetes.
 Contiene: Mensajes visuales en tu terminal con colores sobre lo que esta pasando de forma correcta.
