@@ -1,6 +1,8 @@
 #!/bin/bash
+echo "ADVERTENCIA, PARA USAR ESTE ESCRIPT DEBE TENER ACTIVADO LOS REPOS AUR Y TENER INSTALADO YAY"
 echo "$(tput setaf 5)|!!|$(tput setaf 4)_______------: Actualizando Espejos :------_______$(tput setaf 5)|!!|$(tput setaf 2)"
 sh -c 'sudo reflector --verbose --latest 5 --sort rate --save /etc/pacman.d/mirrorlist'
 echo "$(tput setaf 5)|!!|$(tput setaf 4)_______------: Actualizando Paquetes :------_______$(tput setaf 5)|!!|$(tput setaf 2)"
 sh -c 'sudo pacman -Syyu'
+sh -c 'yay'
 echo "$(tput setaf 4)Todo a terminado, Si ocurren errores vuelve a ejecutarlo de nuevo.$(tput sgr 0)"
