@@ -1,4 +1,6 @@
-Creado en bash, despues le aplicare dialog.
+Creado en bash, ya no uso arch ni distribuciones basadas en archlinux, a si que archivare este proyecto, creado en bash, lo que logre aprender de forums y otros proyectos.
+
+Tenía pensado pasarlo a dialog pero es un trabajo que no vale la pena realizar, ahí alternativas mucho mejores a este proyecto, tampoco creo que alguien lo haya usado más haya de yo.
 
 # update-arch-linux
 Este simple scrip podras actualizar todos tus paquetes.
